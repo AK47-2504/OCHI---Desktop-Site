@@ -27,6 +27,6 @@ A polished footer with additional links and information for navigation and conta
 - CSS (Tailwind): Utility-first styling to ensure responsiveness and a sleek design.
 
 🟡 Learning Outcomes:
-Integrating advanced scrolling libraries like Locomotive Scroll for enhanced interactivity.
-Creating reusable components to streamline development and ensure consistency.
-Leveraging modern CSS frameworks for responsive and visually appealing designs.
+- Integrating advanced scrolling libraries like Locomotive Scroll for enhanced interactivity.
+- Creating reusable components to streamline development and ensure consistency.
+- Leveraging modern CSS frameworks for responsive and visually appealing designs.
