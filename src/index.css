@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#navbar {
+    backdrop-filter: blur(10px);
+}
